@@ -99,13 +99,23 @@ $ mkdir drinks
 $ rm -r drinks/
 
 ### Step 4
-
+$ git init
+$ git add .
+$ git commit -m "first commit"
+$ git push
 
 ### Step 5
+$ git remote add origin https://github.com/stevenfrederickrkt/deliverable_one.git
+$ git branch -M main
+$ git push -u origin main
 
 
 ### Step 6
-
+$ git add .
+$ git commit -m "added menu.txt"
+$ git push
 
 ### Step 7
 *** DO NOT RECORD STEP 7 ***
+
+##makign changes here 
